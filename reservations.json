@@ -1,0 +1,25 @@
+{
+  "reservations": [
+    {
+      "id": "reservation-1",
+      "checkIn": "2022-06-20",
+      "checkOut": "2022-06-23",
+      "guests": "1",
+      "cabin": "A1"
+    },
+    {
+      "id": "reservation-2",
+      "checkIn": "2022-05-14",
+      "checkOut": "2022-05-15",
+      "guests": "2",
+      "cabin": "A2"
+    },
+    {
+      "id": "reservation-3",
+      "checkIn": "2022-08-10",
+      "checkOut": "2022-08-13",
+      "guests": "3",
+      "cabin": "A3"
+    }
+  ]
+}
